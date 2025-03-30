@@ -66,6 +66,8 @@
         "__split_buffer": "cpp",
         "deque": "cpp",
         "sstream": "cpp",
-        "*.supports-builtin-modules": "cpp"
+        "*.supports-builtin-modules": "cpp",
+        "forward_list": "cpp",
+        "unordered_set": "cpp"
     }
 }
