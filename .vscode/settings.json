@@ -69,6 +69,7 @@
         "*.supports-builtin-modules": "cpp",
         "forward_list": "cpp",
         "unordered_set": "cpp",
-        "charconv": "cpp"
+        "charconv": "cpp",
+        "functional": "cpp"
     }
 }
