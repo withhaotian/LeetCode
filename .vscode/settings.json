@@ -70,6 +70,7 @@
         "forward_list": "cpp",
         "unordered_set": "cpp",
         "charconv": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "complex": "cpp"
     }
 }
